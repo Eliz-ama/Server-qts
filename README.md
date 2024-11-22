@@ -58,22 +58,17 @@ bash
 Este documento apresenta as evidências dos testes unitários realizados em cada rota da API. As imagens anexadas mostram os resultados obtidos.
 
 ## Rota: `Adição`
-### Resultado:
-![Evidência - Adição](caminho/para/imagem-login.png)
+![Evidência - Adição](img/img1.png)
 
 ## Rota: `Subtração`
-### Resultado:
-![Evidência - Subtração](caminho/para/imagem-login.png)
+![Evidência - Subtração](img/img2.png)
 
 ## Rota: `Multiplicação`
-### Resultado:
-![Evidência - Multiplicação](caminho/para/imagem-login.png)
+![Evidência - Multiplicação](img/img3.png)
 
 ## Rota: `Divisão`
-### Resultado:
-![Evidência - Divisão](caminho/para/imagem-login.png)
+![Evidência - Divisão](img/img4.png)
 
 ## Rota: `Divisão por zero`
-### Resultado:
-![Evidência - Divisão por zero](caminho/para/imagem-login.png)
+![Evidência - Divisão por zero](img/img5.png)
 
