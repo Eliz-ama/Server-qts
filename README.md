@@ -57,7 +57,7 @@ bash
 
 Este documento apresenta as evidências dos testes unitários realizados em cada rota da API. As imagens anexadas mostram os resultados obtidos.
 
-![Testes Unitarios](img/testes_unitarios)
+![Testes Unitarios](img/testes_unitarios.png)
 
 
 ## Rota: `Adição`
